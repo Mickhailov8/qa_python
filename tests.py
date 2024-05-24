@@ -1,9 +1,6 @@
 import pytest
 from main import BooksCollector
 
-
-# класс TestBooksCollector объединяет набор тестов, которыми мы покрываем наше приложение BooksCollector
-# обязательно указывать префикс Test
 class TestBooksCollector:
     name = ['Гордость и предубеждение и зомби', 'Что делать, если ваш кот хочет вас убить']
 
