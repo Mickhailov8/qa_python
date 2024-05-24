@@ -78,5 +78,3 @@ class TestBooksCollector:
 
         assert collector.get_list_of_favorites_books() == ['Гордость и предубеждение и зомби']
 
-
-tor()
